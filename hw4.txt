@@ -1,1 +1,3 @@
 Hello, my name is Aaron Van Dell.
+Hello, our names are Aaron and Nicholas and we are working on
+hw4 together
